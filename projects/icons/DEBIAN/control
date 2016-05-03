@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: cydiatweaks
+Depiction: https://github.com/saleh19q/saleh19q.github.io
+Description: Adds Icon Images
+Maintainer: cydiatweaks <reponame@example.com>
+Name: icons
+Package: com.cydiatweaks.nameofpackage
+Section: Tweaks
+Version: 1.0

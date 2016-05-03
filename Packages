@@ -1,0 +1,15 @@
+Package: com.cydiatweaks.nameofpackage
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: cydiatweaks <reponame@example.com>
+Filename: ./debs/com.cydiatweaks.nameofpackage_1.0_iphoneos-arm.deb
+Size: 5318
+MD5sum: 47dc4e5c1f54c34089d6a063f24479dd
+SHA1: 5f7fddd8096a65c2931d2ca610037f39c2b1a8be
+SHA256: 1214a2e37461ca905d83bc2f0098d401825a8ad3a3ecf9149598a70b49a7cf6a
+Section: Tweaks
+Description: Adds Icon Images
+Author: cydiatweaks
+Depiction: https://github.com/saleh19q/saleh19q.github.io
+Name: icons
+
