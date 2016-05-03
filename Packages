@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: cydiatweaks <reponame@example.com>
 Filename: ./debs/com.cydiatweaks.nameofpackage_1.0_iphoneos-arm.deb
 Size: 5318
-MD5sum: 2bcc631581ef6119be800487db0697d6
-SHA1: 360bb81b616dfe064f344098f57f2ccb07af38b0
-SHA256: 1a8fa8f6126b6ccd0864fec478a240ce8659f248502cbefc37225c479318b130
+MD5sum: 1b5311f17d39a139ec384a9e77d77885
+SHA1: a96cee2096e7432606ee3a9e78a86adf7406c43e
+SHA256: 8d28e822bc1bb4a9b1a61371c43fbae00284730319f11a6fc1e55ed483d6ec07
 Section: Tweaks
 Description: Adds Icon Images
 Author: cydiatweaks
